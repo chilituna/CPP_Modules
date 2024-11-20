@@ -9,3 +9,7 @@ references, switch statement
 
 CPP02: Ad-hoc polymorphism, operator overloading, fixed point
 and Orthodox Canonical class form
+
+CPP03: Inheritance
+
+CPP04: Subtype polymorphism, abstract classes, interfaces
