@@ -13,3 +13,5 @@ and Orthodox Canonical class form
 CPP03: Inheritance
 
 CPP04: Subtype polymorphism, abstract classes, interfaces
+
+CPP05: Repetition and Exceptions
