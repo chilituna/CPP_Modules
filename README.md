@@ -1,4 +1,4 @@
-# CPP_Modules
+# CPP Modules
 
 CPP00: Namespaces, classes, member functions, stdio streams,
 initialization lists, static, const, and some other basic
@@ -16,6 +16,5 @@ CPP04: Subtype polymorphism, abstract classes, interfaces
 
 CPP05: Repetition and Exceptions
 
-// CPP06: C++ casts
+CPP06: C++ casts
 
-// CPP07: C++ templates
