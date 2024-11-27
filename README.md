@@ -16,6 +16,6 @@ CPP04: Subtype polymorphism, abstract classes, interfaces
 
 CPP05: Repetition and Exceptions
 
-#CPP06: C++ casts
+// CPP06: C++ casts
 
-#CPP07: C++ templates
+// CPP07: C++ templates
